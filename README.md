@@ -9,7 +9,7 @@ A clean-architecture ASP.NET Core Web API project to manage video games — prov
 
 ## 🏗 Clean Architecture Overview
 
-**API Layer** → **Application Layer** → **Domain Layer** → **Infrastructure Layer**
+**API Layer** → **Application Layer** → **Infrastructure Layer** → **Domain Layer** 
 
 Decoupled, scalable, and testable architecture ensuring clean code practices.
 
@@ -38,10 +38,3 @@ Decoupled, scalable, and testable architecture ensuring clean code practices.
 
 ---
 
-## 🚀 Running the Project
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/yourusername/videogameapi.git
-   cd videogameapi
